@@ -1,10 +1,17 @@
-
+# Boilerplate for Developing Frontend App
 
 ## Usage
 
-```
-cp -r boilerplate-sub-folder dest
-cd dest
-rm -rf node_modules
+```bash
+cp -r boilerplate-sub-folder dest-folder
+cd dest-folder
+# rm -rf node_modules
 npm i
 ```
+
+### `vue-full`
+
+* tailwind
+* pinia
+* vue-router
+* axios
