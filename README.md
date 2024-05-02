@@ -9,9 +9,10 @@ cd dest-folder
 npm i
 ```
 
-### `vue-full`
+### `vue`
 
 * tailwind
 * pinia
 * vue-router
 * axios
+* element plus
